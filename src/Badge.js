@@ -5,7 +5,7 @@ import { background, color, typography } from './shared/styles';
 
 const BadgeWrapper = styled.div`
   display: inline-block;
-  vertical-align: top;
+  vertical-align: bottom;
   font-size: 11px;
   line-height: 12px;
   padding: 4px 12px;
